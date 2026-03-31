@@ -23,10 +23,10 @@ Using historical data (from 1947 to present), the analysis highlights how shot s
 ## Visuals
 
 ### Growth by decade
-![Growth by decade](screenshots/growth_by_decade.png)
+![Growth by decade](screenshots/growth_by_decade.JPG)
 
 ### Stephen Curry impact
-![Stephen Curry](screenshots/steph_curry.png)
+![Stephen Curry](screenshots/steph_curry.JPG)
 
 ---
 
