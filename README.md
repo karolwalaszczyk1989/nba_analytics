@@ -15,6 +15,8 @@ As a basketball fan, combining the sport with data analysis makes working on thi
 
 ## Projects
 
+👉 [3PT Evolution](https://github.com/karolwalaszczyk1989/nba_analytics/tree/main/3pt-evolution)
+
 ### 1. 3PT Evolution
 Analysis of how the importance of the 3-point shot has changed across decades.
 
